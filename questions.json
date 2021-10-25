@@ -125,5 +125,10 @@
            "choices": ["chocolat", "chocolata", "chocolato"],
            "answer": "chocolate"  
         }
+        {
+           "question": "Which of these items does not help form a proc chain?",
+           "choices": ["ATG missile", "molten perforator", "sticky bomb"],
+           "answer": "Tri-tip dagger"  
+        }
     ]
 }
